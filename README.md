@@ -1,2 +1,8 @@
-# Hand-Gesture-Controlled-Robot
-This the Gesture controlled Omni directional robot that move on hand gestures
+This is the gesture controlled robot that operates on different gestures
+
+#components
+1. open cv
+2. Omni Directional Robot
+3. Esp32
+
+
